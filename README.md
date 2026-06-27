@@ -27,7 +27,12 @@ my-gpt-lab/
 
 ## Projects:
 - **tiny-shakespeare/my_first_llm:** The result of the Karpathy's walkthrough. I brushed up some concepts I already knew (embeddings, Transformers, attention blocks), and learned (through performing by myself (such a harsh process)) the *math* behind them. The notebook guides you step-by-step in building your own text-oriented GPT.
-https://github.com/user-attachments/assets/fa21ea71-4ec3-46e6-b565-af3a85e32621
+
+
+
+https://github.com/user-attachments/assets/b70b6eb3-9ab3-44ef-9512-8e9e0d498d8e
+
+
 
 
 
